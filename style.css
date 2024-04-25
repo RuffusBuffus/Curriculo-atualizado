@@ -380,12 +380,12 @@ span{
     gap: 3rem;
 }
 .testimonial-item{
-    min-height: 550px;
-    min-width: 450px;
+    min-height: 40rem;
+    min-width: 30rem;
     background-color: rgba(0, 0, 0, 0.7);
     border: 3px solid rgba(238, 238, 238, 0.2);
     border-radius: 2rem;
-    margin: 0 2rem;
+    margin: auto;
     padding: 30px 60px;
     cursor: pointer;
     display: flex;
